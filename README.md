@@ -9,6 +9,6 @@
 
 🌟 Check out my GitHub repositories to see some of my projects. They reflect my experiences, learnings, and demonstrate my coding skills.
 
-📫 Feel free to reach out to me via vaibhavtezan@gmail.com or connect with me on . I'm always open to collaboration and eager to connect with fellow developers.
+📫 Feel free to reach out to me via vaibhavtezan@gmail.com  . I'm always open to collaboration and eager to connect with fellow developers.
 
 Happy coding! 😊
